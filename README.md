@@ -8,28 +8,6 @@ My work spans **LLM-powered applications, backend APIs, reinforcement learning, 
 
 I'm particularly interested in building systems that connect **AI models, data infrastructure, APIs, and real-world applications**.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirtahamim&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtahamim&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amirtahamim&theme=tokyonight" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirtahamim&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirtahamim&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
 
 ## 🚀 Technical Skills
 
